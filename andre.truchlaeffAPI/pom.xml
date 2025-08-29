@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.4</version>
+		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.infnet</groupId>
-	<artifactId>andre.truchlaeffapi</artifactId>
+	<artifactId>andre.truchlaeffAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>andre.truchlaeffapi</name>
-	<description>Compra de verduras</description>
+	<name>andre.truchlaeffAPI</name>
+	<description>serviço de vendas hortaliças</description>
 	<url/>
 	<licenses>
 		<license/>

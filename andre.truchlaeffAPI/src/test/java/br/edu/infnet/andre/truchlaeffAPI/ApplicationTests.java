@@ -1,4 +1,4 @@
-package br.edu.infnet.andre.truchlaeffapi;
+package br.edu.infnet.andre.truchlaeffAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

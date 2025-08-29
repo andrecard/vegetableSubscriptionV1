@@ -1,4 +1,4 @@
-package br.edu.infnet.andre.truchlaeffapi;
+package br.edu.infnet.andre.truchlaeffAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
